@@ -35,7 +35,7 @@ Mobile
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/Wannika123/fem-FAQ)
-- Live Site URL: [GitHub page](https://your-live-site-url.com)
+- Live Site URL: [GitHub page](https://wannika123.github.io/fem-FAQ)
 
 ## My process
 
